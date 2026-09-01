@@ -11,13 +11,12 @@ b = 10
 print(a+b) #output: 30
 print(a-b) #output: 10
 print(a*b) #output: 200 
-print(a/b) #output: 2.0 (always returns a float (decimal number), even if the result is a whole number.)
+print(a/b) #output: 2.0 (always returns a float (decimal number).
 print(a//b) #output: 2  (quotient) (ignoring the decimal part.)
 print(a % b) #output: 0  (remainder)
 print(a ** b) #output: 102400..   (2 ** 3 = 2 x 2 x 2 = 8)
 
 #----Arithmetic = calculations.
-
 
 #--Assignment Operators ----------------------------------------------
 #--- ( =)
@@ -26,7 +25,6 @@ print(a ** b) #output: 102400..   (2 ** 3 = 2 x 2 x 2 = 8)
 #-example
 age = 15
 name = "Alex" 
-
 
 # Assignment = store/update a value.
 
