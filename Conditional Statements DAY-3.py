@@ -55,6 +55,15 @@ if a>15 and a<20:
 #---not With if
 """not reverses True/False."""
 
+a = 18
+if not a > 20:
+    print("Condition is true")  # OUTPUT:- Condition is true
+
 #---------------------------------------------------------------------
 #---Nested if
 """An if inside another if. """ 
+
+a = 18
+if a > 15:
+    if a < 20:
+        print("Both are true")  # OUTPUT:- Both are true
