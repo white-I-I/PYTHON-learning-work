@@ -61,7 +61,9 @@ if not a > 20:
 
 #---------------------------------------------------------------------
 #---Nested if
-"""An if inside another if. """ 
+"""An if inside another if.
+   Nested if is a conditional statement in Python.
+   where one if statement is written inside another if statement""" 
 
 a = 18
 if a > 15:
