@@ -2,7 +2,7 @@
 
 #---------My First python code-----------------------------------------------
 print("HELLO WORLD")
-print("This is my First python program i printed. \n I started python from today (3-8-2026).\n\n")
+print("This is my First python program i printed it successfully. \n I started python on today (3-8-2026).\n\n")
  
 print("sai\n" * 10) 
 
