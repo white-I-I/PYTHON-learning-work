@@ -81,7 +81,8 @@ print( not( a<9)) #-not reverses True/False.
 
 #-- Compound Operators----------------------------------------------------
 #--- (+=, -=, *=, /=, //=, %=, **=, &=, `, ^=, >>=)
-"""This is closely related to assignment operators.""" #(combine: operation + assignment) 
+"""Compound operators are operators that combine an arithmetic operation and assignment into one shortcut
+   This is closely related to assignment operators."""  
 x = 10
 x += 5
 print(x) #OUTPUT: 15 (x = x + 10) 
